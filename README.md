@@ -35,6 +35,12 @@ Feature Engineering
 Model Training (LSTM / ML models)
 Evaluation and Visualization
 Prediction
+
+Contact
+
+Suruj Kalita
+Full Stack Developer | AI/ML Engineer
+Open to collaboration and innovation
 Results
 Visual comparison of predicted vs actual prices
 Model performance metrics (MSE, RMSE, etc.)
